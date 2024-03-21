@@ -1,0 +1,4 @@
+barang1
+barang2
+barang3
+barang4
